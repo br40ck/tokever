@@ -24,7 +24,7 @@
     <meta name="og:description" content="Slot Dana adalah situs slot gacor terpercaya dengan deposit hanya 5000 via Dana. Rasakan sensasi maxwin gampang hari ini dengan RTP tinggi dan game slot terbaik pilihan pemain Indonesia." />
     <meta name="keywords" content="slot dana, slot gacor dana, situs slot dana 5000, deposit dana slot, slot dana gampang menang, slot maxwin hari ini, slot online dana terpercaya" />
     <meta name="og:image" content="https://slot-dana.b-cdn.net/assets/slot-dana.png" />
-    <link rel="icon" type="image/x-icon" href="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico" />
+    <link rel="icon" type="image/x-icon" href="https://slot-dana.b-cdn.net/assets/icon.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
     <link rel="canonical" href="https://devstage.mainehealth.org/" />
     <link rel="amphtml" href="https://slot-dana.b-cdn.net/dana/index.html" />
