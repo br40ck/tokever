@@ -2,7 +2,6 @@
 
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
-
 <head>
     <meta charset="utf-8" />
     <title>
