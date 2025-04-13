@@ -1,15 +1,16 @@
 
+
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 
 <head>
     <meta charset="utf-8" />
     <title>
-        OKE100: Link Slot Gacor Maxwin Deposit 5000 Gampang Menang Hari Ini
+        Slot Dana: Situs Slot Gacor Deposit Dana 5000 Gampang Maxwin Hari Ini
     </title>
     <meta name="google-site-verification" content="eL65zmtn_wfrbDvc3N-pswe5cR-X5dY9rNXeZaDuOSg" />
     <meta name="description"
-        content="Temukan link slot gacor OKE100 terbaru hari ini dengan minimal deposit 5000. Raih peluang maxwin dan gampang menang setiap hari di situs slot terpercaya OKE100." />
+        content="Slot Dana adalah situs slot gacor terpercaya dengan deposit hanya 5000 via Dana. Rasakan sensasi maxwin gampang hari ini dengan RTP tinggi dan game slot terbaik pilihan pemain Indonesia." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp"
         content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
@@ -18,17 +19,17 @@
     <meta name="language" content="Indonesia" />
     <meta name="author" content="OKE1000" />
     <meta name="og:url" content="https://devstage.mainehealth.org/" />
-    <meta name="og:title" content="OKE100: Link Slot Gacor Maxwin Deposit 5000 Gampang Menang Hari Ini" />
+    <meta name="og:title" content="Slot Dana: Situs Slot Gacor Deposit Dana 5000 Gampang Maxwin Hari Ini" />
     <meta name="og:type" content="product" />
-    <meta name="og:description" content="Temukan link slot gacor OKE100 terbaru hari ini dengan minimal deposit 5000. Raih peluang maxwin dan gampang menang setiap hari di situs slot terpercaya OKE100." />
-    <meta name="keywords" content="oke100, slot gacor, link slot gacor, maxwin gampang menang, slot deposit 5000, slot gacor hari ini, situs slot terpercaya, slot gampang jp, slot online gacor, link oke100 terbaru" />
-    <meta name="og:image" content="https://res.cloudinary.com/dmb17m2eg/image/upload/v1741780110/banner.jpg" />
+    <meta name="og:description" content="Slot Dana adalah situs slot gacor terpercaya dengan deposit hanya 5000 via Dana. Rasakan sensasi maxwin gampang hari ini dengan RTP tinggi dan game slot terbaik pilihan pemain Indonesia." />
+    <meta name="keywords" content="slot dana, slot gacor dana, situs slot dana 5000, deposit dana slot, slot dana gampang menang, slot maxwin hari ini, slot online dana terpercaya" />
+    <meta name="og:image" content="https://slot-dana.b-cdn.net/assets/slot-dana.png" />
     <link rel="icon" type="image/x-icon" href="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
     <link rel="canonical" href="https://devstage.mainehealth.org/" />
-    <link rel="amphtml" href="https://link-gacor.b-cdn.net/amp/index.html" />
+    <link rel="amphtml" href="https://slot-dana.b-cdn.net/dana/index.html" />
     <!-- start preload -->
-    <link rel="preload" href="https://res.cloudinary.com/dmb17m2eg/image/upload/v1741780110/banner.jpg" as="image" />
+    <link rel="preload" href="https://slot-dana.b-cdn.net/assets/slot-dana.png" as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com" />
@@ -133,7 +134,7 @@
         };
         var dataLayer = window.dataLayer || [];
         var pdpTrackingData =
-            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://res.cloudinary.com/dmb17m2eg/image/upload/v1741780110/banner.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"OKE100: Link Slot Gacor Maxwin Deposit 5000 Gampang Menang Hari Ini","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://slot-dana.b-cdn.net/assets/slot-dana.png","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"Slot Dana: Situs Slot Gacor Deposit Dana 5000 Gampang Maxwin Hari Ini","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
         try {
             pdpTrackingData = JSON.parse(pdpTrackingData);
             pdpTrackingData.v_voya = false;
@@ -182,7 +183,7 @@
         }
 
         .lzd-logo-bar {
-            background: #020433;
+            background: #006ec2;
         }
 
         #container,
@@ -195,13 +196,13 @@
         }
 
         .lzd-header-banner {
-            background-image: url(https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico) !important;
+            background-image: url(https://gambar88.b-cdn.net/img/logo/pgsoft.webp) !important;
             background-size: contain !important;
             background-repeat: no-repeat;
         }
 
         .add-to-cart-buy-now-btn {
-            background-image: url(https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico) !important;
+            background-image: url(https://gambar88.b-cdn.net/img/logo/pgsoft.webp) !important;
             background-size: contain !important;
         }
 
@@ -746,8 +747,8 @@
         {
             "@type": "Product",
             "@context": "https://schema.org",
-            "name": "OKE100: Link Slot Gacor Maxwin Deposit 5000 Gampang Menang Hari Ini",
-            "image": "https://res.cloudinary.com/dmb17m2eg/image/upload/v1741780110/banner.jpg",
+            "name": "Slot Dana: Situs Slot Gacor Deposit Dana 5000 Gampang Maxwin Hari Ini",
+            "image": "https://slot-dana.b-cdn.net/assets/slot-dana.png",
             "category": "Televisi & Video",
             "brand": {
                 "@type": "Brand",
@@ -756,7 +757,7 @@
             },
             "sku": "3642482616_ID-6108584955",
             "mpn": 3642482616,
-            "description": "Temukan link slot gacor OKE100 terbaru hari ini dengan minimal deposit 5000. Raih peluang maxwin dan gampang menang setiap hari di situs slot terpercaya OKE100.",
+            "description": "Slot Dana adalah situs slot gacor terpercaya dengan deposit hanya 5000 via Dana. Rasakan sensasi maxwin gampang hari ini dengan RTP tinggi dan game slot terbaik pilihan pemain Indonesia.",
             "url": "https://devstage.mainehealth.org/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
             "offers": {
                 "@type": "Offer",
@@ -809,7 +810,7 @@
                 "position": 5,
                 "item": {
                     "@id": "https://devstage.mainehealth.org/",
-                    "name": "OKE100: Link Slot Gacor Maxwin Deposit 5000 Gampang Menang Hari Ini"
+                    "name": "Slot Dana: Situs Slot Gacor Deposit Dana 5000 Gampang Maxwin Hari Ini"
                 }
             }]
         }
@@ -974,7 +975,7 @@
                                 </div>
                                 <div class="top-links-item orange" id="topActionDownload"
                                     data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                    <span>Slot Maxwin</span>
+                                    <span>Slot Dana</span>
                                     <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                         <div class="top-popup-content lzd-download-content">
                                             <div class="get-the-app-scope">
@@ -1000,7 +1001,7 @@
                                                                         <li>Banyak Bonusnya</li>
                                                                         <li>Produk Eksklusif di App</li>
                                                                         <li>
-                                                                            Rekomendasi Link Slot Gacor
+                                                                            Rekomendasi Link Slot Deposit Dana
                                                                         </li>
                                                                         <li>Link Slot</li>
                                                                     </ul>
@@ -1040,11 +1041,11 @@
                                 </div>
                                 <div class="top-links-item" id="topActionSell">
                                     <a class="cyan" href="https://devstage.mainehealth.org/"
-                                        data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Slot Gacor</a>
+                                        data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Slot Gacor Dana</a>
                                 </div>
                                 <div class="top-links-item" id="topActionCustomCare"
                                     data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                    <span>Slot Maxwin Gacor</span>
+                                    <span>Situs Slot Dana 5000</span>
                                     <div class="lzd-customcare-popup top-popup-wrap">
                                         <div class="top-popup-content l-customcare-content">
                                             <ul class="care-list">
@@ -1095,7 +1096,7 @@
                                 </div>
                                 <div class="top-links-item grey" id="topActionTrack"
                                     data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                    <span>Slot Gacor Maxwin</span>
+                                    <span>Deposit Dana Slot</span>
                                     <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                         <div class="top-popup-content lzd-track-content">
                                             <div id="topActionMyLastOrder"></div>
@@ -1122,11 +1123,11 @@
                                 </div>
 
                                 <div class="top-links-item grey" id="anonLogin">
-                                    <a class="grey" href="https://link-gacor.b-cdn.net/amp/index.html"
+                                    <a class="grey" href="https://slot-dana.b-cdn.net/dana/index.html"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
                                 </div>
                                 <div class="top-links-item grey" id="anonSignup">
-                                    <a class="grey" href="https://link-gacor.b-cdn.net/amp/index.html"
+                                    <a class="grey" href="https://slot-dana.b-cdn.net/dana/index.html"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
                                 </div>
                                 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont"
@@ -1183,12 +1184,12 @@
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
                                     <a href="https://devstage.mainehealth.org/" data-spm="dhome"><img
-                                            src="https://gambar88.b-cdn.net/img/logo/pgsoft.webp"
+                                            src="https://slot-dana.b-cdn.net/logo-dana.png"
                                             alt="logo" /></a>
                                 </div>
                                 <div class="lzd-nav-search" data-spm="search">
                                     <marquee behavior="" direction="">
-                                      Temukan link slot gacor OKE100 terbaru hari ini dengan minimal deposit 5000. Raih peluang maxwin dan gampang menang setiap hari di situs slot terpercaya OKE100.
+                                      Slot Dana adalah situs slot gacor terpercaya dengan deposit hanya 5000 via Dana. Rasakan sensasi maxwin gampang hari ini dengan RTP tinggi dan game slot terbaik pilihan pemain Indonesia.
                                     </marquee>
                                     <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
                                 </div>
@@ -2522,7 +2523,7 @@
                                                         <span
                                                             class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="RTP SLOT" class="lzd-site-nav-menu-iconfont-img"
-                                                                src="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico" />
+                                                                src="https://slot-dana.b-cdn.net/assets/icon.png" />
                                                         </span>
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                                         <span class="lzd-menu-labels-item-text">RTP SLOT</span>
@@ -3673,35 +3674,35 @@
                                 <nav class="lzd-menu-labels" data-spm="menu">
                                     <a class="lzd-menu-labels-item" href="https://devstage.mainehealth.org/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                                            <img alt="Slot Gacor Hari Ini" class="lzd-site-nav-menu-iconfont-img"
-                                                src="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico" />
+                                            <img alt="Slot Dana Gampang Menang" class="lzd-site-nav-menu-iconfont-img"
+                                                src="https://slot-dana.b-cdn.net/assets/icon.png" />
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                                        <span class="lzd-menu-labels-item-text">Slot Gacor Hari Ini</span>
+                                        <span class="lzd-menu-labels-item-text">Slot Dana Gampang Menang</span>
                                     </a>
                                     <a class="lzd-menu-labels-item" href="https://devstage.mainehealth.org/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                                            <img alt="Slot Gacor 5000" class="lzd-site-nav-menu-iconfont-img"
-                                                src="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico" />
+                                            <img alt="Slot Maxwin Hari Ini" class="lzd-site-nav-menu-iconfont-img"
+                                                src="https://slot-dana.b-cdn.net/assets/icon.png" />
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                                        <span class="lzd-menu-labels-item-text">Slot Gacor 5000</span>
+                                        <span class="lzd-menu-labels-item-text">Slot Maxwin Hari Ini</span>
                                     </a>
                                     <a class="lzd-menu-labels-item" href="https://devstage.mainehealth.org/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                                            <img alt="Slot Gampang Menang" class="lzd-site-nav-menu-iconfont-img"
-                                                src="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico" />
+                                            <img alt="Slot Online Dana Terpercaya" class="lzd-site-nav-menu-iconfont-img"
+                                                src="https://slot-dana.b-cdn.net/assets/icon.png" />
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                                        <span class="lzd-menu-labels-item-text">Slot Gampang Menang</span>
+                                        <span class="lzd-menu-labels-item-text">Slot Online Dana Terpercaya</span>
                                     </a>
                                     <a class="lzd-menu-labels-item" href="https://devstage.mainehealth.org/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                                            <img alt="Link Slot Gacor" class="lzd-site-nav-menu-iconfont-img"
-                                                src="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico" />
+                                            <img alt="Link Slot Deposit Dana" class="lzd-site-nav-menu-iconfont-img"
+                                                src="https://slot-dana.b-cdn.net/assets/icon.png" />
                                         </span>
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                                        <span class="lzd-menu-labels-item-text">Link Slot Gacor</span>
+                                        <span class="lzd-menu-labels-item-text">Link Slot Deposit Dana</span>
                                     </a>
                                 </nav>
                             </div>
@@ -4005,8 +4006,8 @@
                             <div class="gallery-preview-panel">
                                 <div class="gallery-preview-panel__content">
                                     <img class="pdp-mod-common-image gallery-preview-panel__image"
-                                        alt="OKE100: Link Slot Gacor Maxwin Deposit 5000 Gampang Menang Hari Ini"
-                                        src="https://res.cloudinary.com/dmb17m2eg/image/upload/v1741780110/banner.jpg" />
+                                        alt="Slot Dana: Situs Slot Gacor Deposit Dana 5000 Gampang Maxwin Hari Ini"
+                                        src="https://slot-dana.b-cdn.net/assets/slot-dana.png" />
                                 </div>
                             </div>
                         </div>
@@ -4039,12 +4040,12 @@
                                 .login,
                                 .login-button {
                                     border: 1px solid #ffffff;
-                                    background: linear-gradient(to bottom, #020433 0, #000000 100%);
+                                    background: linear-gradient(to bottom, #007ee1 0%, #0069bd 100%);
                                 }
 
                                 .register,
                                 .register-button {
-                                    background: linear-gradient(to bottom, #020433 0, #000000 100%);
+                                    background: linear-gradient(to bottom, #007ee1 0%, #0069bd 100%);
                                     border: 1px solid #ffffff;
                                 }
                             </style>
@@ -4052,12 +4053,12 @@
                                 <div class="pdp-product-title">
                                     <div class="pdp-mod-product-badge-wrapper">
                                         <h1 class="pdp-mod-product-badge-title">
-                                          OKE100: Link Slot Gacor Maxwin Deposit 5000 Gampang Menang Hari Ini
+                                          Slot Dana: Situs Slot Gacor Deposit Dana 5000 Gampang Maxwin Hari Ini
                                         </h1>
                                         <div class="n-columns-2">
-                                            <a href="https://link-gacor.b-cdn.net/amp/index.html" rel="nofollow noreferrer"
+                                            <a href="https://slot-dana.b-cdn.net/dana/index.html" rel="nofollow noreferrer"
                                                 class="login">LOGIN</a>
-                                            <a href="https://link-gacor.b-cdn.net/amp/index.html" rel="nofollow noreferrer"
+                                            <a href="https://slot-dana.b-cdn.net/dana/index.html" rel="nofollow noreferrer"
                                                 class="register">DAFTAR</a>
                                         </div>
                                     </div>
@@ -4081,7 +4082,7 @@
                                                     src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" />
                                             </div>
                                             <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link"
-                                                data-spm-anchor-id="12anj4u.pdp_revamp.0.0">88.888.888 Penilaian</a>
+                                                data-spm-anchor-id="12anj4u.pdp_revamp.0.0">11.222.333 Penilaian</a>
                                         </div>
                                     </div>
                                 </div>
@@ -4102,7 +4103,7 @@
                                     <span class="pdp-product-brand__name">Merek<!-- -->:<!-- -->
                                     </span>
                                     <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
-                                        target="_self" href="https://devstage.mainehealth.org/">Slot Gacor Maxwin</a>
+                                        target="_self" href="https://devstage.mainehealth.org/">Slot Dana</a>
                                     <div class="pdp-product-brand__divider"></div>
                                 </div>
                             </div>
@@ -4870,9 +4871,9 @@
             display: flex;
             justify-content: space-around;
             position: fixed;
-            background: linear-gradient(to bottom, #020433 0, #000000 100%);
+            background: linear-gradient(to bottom, #007ee1 0%, #0069bd 100%);
             padding: 5px 0;
-            box-shadow: 0 0 8px 4px #020433;
+            box-shadow: 0 0 8px 4px #006ec2;
             left: 0;
             right: 0;
             bottom: 0;
@@ -4911,22 +4912,22 @@
         }
     </style>
     <div class="fixed-footer">
-        <a href="https://link-gacor.b-cdn.net/amp/index.html" rel="nofollow noopener" target="_blank">
+        <a href="https://slot-dana.b-cdn.net/dana/index.html" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://i.imgur.com/hiUK9PD.png" alt="LOGIN">
             LOGIN
         </a>
-        <a href="https://link-gacor.b-cdn.net/amp/index.html" rel="nofollow noopener" target="_blank" class="tada">
+        <a href="https://slot-dana.b-cdn.net/dana/index.html" rel="nofollow noopener" target="_blank" class="tada">
             <img layout="intrinsic" height="20px" width="20px"
                 src="https://i.imgur.com/0zNx6cf.png" alt="DAFTAR">
             DAFTAR
         </a>
-        <a href="https://link-gacor.b-cdn.net/amp/index.html" rel="nofollow noopener" target="_blank">
+        <a href="https://slot-dana.b-cdn.net/dana/index.html" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/zTBzG2j.png"
                 alt="WA">
             WA
         </a>
-        <a href="https://link-gacor.b-cdn.net/amp/index.html" rel="nofollow noopener" target="_blank"
+        <a href="https://slot-dana.b-cdn.net/dana/index.html" rel="nofollow noopener" target="_blank"
             class="js_live_chat_link live-chat-link">
             <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
                 src="https://i.imgur.com/DCmVQtK.png" alt="LIVECHAT">
