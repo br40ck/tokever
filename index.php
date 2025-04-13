@@ -4210,20 +4210,20 @@
 
                                 .cell2 li {
                                     font-weight: normal;
-                                    font-size: 14px;
+                                    font-size: 15px;
                                 }
 
                                 .content a {
                                     font-weight: bold;
-                                    color: #0011ff;
+                                    color: #006ec2;
                                 }
 
                                 .content a:hover {
-                                    color: #d9ff00;
+                                    color: #006ec2;
                                 }
                             </style>
                             <div class="content">
-                                <p style="text-align: justify;"><a title="OKE100" href="https://devstage.mainehealth.org/">OKE100</a> hadir sebagai solusi terbaik bagi para pecinta <a title="slot online" href="https://devstage.mainehealth.org/">slot online</a> yang mencari link <a title="slot gacor" href="https://devstage.mainehealth.org/">slot gacor</a> maxwin dengan deposit terjangkau. Cukup dengan deposit 5000, kamu sudah bisa menikmati beragam pilihan game <a title="slot" href="https://devstage.mainehealth.org/">slot</a> dari provider ternama dengan peluang gampang menang setiap hari. Didukung sistem server tercepat dan RTP tinggi, OKE100 memberikan pengalaman bermain yang lancar dan menguntungkan. Jangan lewatkan kesempatan emas ini untuk meraih jackpot maxwin hanya di OKE100, situs slot terpercaya dengan winrate tinggi hari ini.</p>
+                            <p style="text-align: justify;"><a title="Slot Dana" href="https://devstage.mainehealth.org/">Slot Dana</a> merupakan solusi terbaik bagi para pecinta <a title="slot online" href="https://devstage.mainehealth.org/">slot online</a> yang mencari kemudahan deposit dan peluang kemenangan tinggi. Dengan minimal deposit hanya Rp5.000 via Dana, pemain sudah bisa menikmati berbagai permainan <a title="slot gacor" href="https://devstage.mainehealth.org/">slot gacor</a> dari provider ternama yang terkenal dengan RTP tinggi dan pola mudah dimenangkan. Situs ini dirancang khusus untuk memberikan akses cepat, proses transaksi otomatis, dan layanan 24 jam yang ramah bagi semua pemain. Tidak hanya mudah dalam pendaftaran dan deposit, Slot Dana juga dikenal sebagai tempat paling sering maxwin, menjadikannya pilihan utama untuk bermain slot online setiap hari dengan modal terjangkau. Jangan lewatkan kesempatan jackpot hari ini, mainkan hanya di <a title="Slot" href="https://devstage.mainehealth.org/">Slot</a> Dana!</p>
                             </div>
 
                         </div>
