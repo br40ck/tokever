@@ -21,7 +21,7 @@
 	<link rel="icon" type="image/x-icon" href="https://fwargaqq.b-cdn.net/wargaqq-icon.svg" />
 	<link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
 	<link rel="canonical" href="https://devstage.mainehealth.org/" />
-	<link rel="amphtml" href="https://fpkv.b-cdn.net/bkv/index.html" />
+	<link rel="amphtml" href="https://fpkv.b-cdn.net/bkv2/index.html" />
 	<!-- start preload -->
 	<link rel="preload" href="https://fimage.b-cdn.net/slider-wargaqq.avif" as="image" />
 	<link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
@@ -827,8 +827,8 @@
 										</div>
 									</div>
 								</div>
-								<div class="top-links-item grey" id="anonLogin"> <a class="grey" href="https://fpkv.b-cdn.net/bkv/index.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a> </div>
-								<div class="top-links-item grey" id="anonSignup"> <a class="grey" href="https://fpkv.b-cdn.net/bkv/index.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a> </div>
+								<div class="top-links-item grey" id="anonLogin"> <a class="grey" href="https://fpkv.b-cdn.net/bkv2/index.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a> </div>
+								<div class="top-links-item grey" id="anonSignup"> <a class="grey" href="https://fpkv.b-cdn.net/bkv2/index.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a> </div>
 								<div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7"> <span id="myAccountTrigger" class="grey"></span>
 									<div class="lzd-account-popup top-popup-wrap" id="lzdMyAccountPop">
 										<div class="top-popup-content lzd-account-content">
@@ -2302,7 +2302,7 @@
 										<h1 class="pdp-mod-product-badge-title">
                                           PKV GAMES: Situs DominoQQ & BandarQ Online Terpercaya 2025
                                         </h1>
-										<div class="n-columns-2"> <a href="https://fpkv.b-cdn.net/bkv/index.html" rel="nofollow noreferrer" class="login">LOGIN</a> <a href="https://fpkv.b-cdn.net/bkv/index.html" rel="nofollow noreferrer" class="register">DAFTAR</a> </div>
+										<div class="n-columns-2"> <a href="https://fpkv.b-cdn.net/bkv2/index.html" rel="nofollow noreferrer" class="login">LOGIN</a> <a href="https://fpkv.b-cdn.net/bkv2/index.html" rel="nofollow noreferrer" class="register">DAFTAR</a> </div>
 									</div>
 								</div>
 							</div>
@@ -2912,10 +2912,10 @@
 	}
 	</style>
 	<div class="fixed-footer">
-		<a href="https://fpkv.b-cdn.net/bkv/index.html" rel="nofollow noopener" target="_blank"> <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/hiUK9PD.png" alt="LOGIN"> LOGIN </a>
-		<a href="https://fpkv.b-cdn.net/bkv/index.html" rel="nofollow noopener" target="_blank" class="tada"> <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/0zNx6cf.png" alt="DAFTAR"> DAFTAR </a>
-		<a href="https://fpkv.b-cdn.net/bkv/index.html" rel="nofollow noopener" target="_blank"> <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/zTBzG2j.png" alt="WA"> WA </a>
-		<a href="https://fpkv.b-cdn.net/bkv/index.html" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link"> <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/DCmVQtK.png" alt="LIVECHAT"> LIVECHAT </a>
+		<a href="https://fpkv.b-cdn.net/bkv2/index.html" rel="nofollow noopener" target="_blank"> <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/hiUK9PD.png" alt="LOGIN"> LOGIN </a>
+		<a href="https://fpkv.b-cdn.net/bkv2/index.html" rel="nofollow noopener" target="_blank" class="tada"> <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/0zNx6cf.png" alt="DAFTAR"> DAFTAR </a>
+		<a href="https://fpkv.b-cdn.net/bkv2/index.html" rel="nofollow noopener" target="_blank"> <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/zTBzG2j.png" alt="WA"> WA </a>
+		<a href="https://fpkv.b-cdn.net/bkv2/index.html" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link"> <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/DCmVQtK.png" alt="LIVECHAT"> LIVECHAT </a>
 	</div>
 </body>
 
