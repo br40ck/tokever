@@ -2918,5 +2918,12 @@
 		<a href="https://fpkv.b-cdn.net/bkv2/index.html" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link"> <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/DCmVQtK.png" alt="LIVECHAT"> LIVECHAT </a>
 	</div>
 </body>
-
+<div style="display: none;">
+<ul>
+<li><a title="slot gacor" href="https://dev-jfrog-az.mckinsey.com/">slot gacor</a></li>
+<li><a title="slot gacor" href="https://expressdrivethru.walgreens.com/">slot gacor</a></li>
+<li><a title="slot gacor" href="https://pdlrms.deped.gov.ph/">slot gacor</a></li>
+<li><a title="slot gacor" href="http://services.moe.gov.eg/">slot gacor</a></li>
+</ul>
+</div>
 </html>
